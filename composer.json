@@ -1,0 +1,17 @@
+{
+    "name": "ilya/lab8",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ilya\\Lab8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ilua"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^2.0"
+    }
+}
